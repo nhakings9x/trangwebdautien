@@ -77,9 +77,6 @@ html {
 }
 
 /* main */
-#main {
-
-}
 
 #header {
     height: 46px;
@@ -187,7 +184,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top:50%;
-    background: url("/assets/img/slider/slider1.jpg") top center / cover no-repeat;
+    background: url("../img/slider/slider1.jpg") top center / cover no-repeat;
 }
 
 #slider .text-content{
@@ -211,10 +208,6 @@ html {
 
 }
 
-#content {
-    
-
-}
 
 #content .content-section {
     width: 800px;
